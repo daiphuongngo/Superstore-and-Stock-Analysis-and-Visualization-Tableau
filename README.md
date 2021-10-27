@@ -9,6 +9,15 @@
 
 Dived deeply into the overall sales and profitability for the firm and determined crucial areas for enhancement with different plotting methods
 
+## Dataset:
+
+https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-connect.htm
+
+## Table:
+
+| Row ID	| Order ID | Order Date	| Ship Date | Ship Mode | Customer ID |	Customer Name	| Segment | Country | City | State | Postal Code | Region | Product ID | Category | Sub-Category | Product Name | Sales | Quantity | Discount | Profit |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+
 ## Visualization:
 
 ### Part 2:
