@@ -1,4 +1,4 @@
-# Superstore-Sales-and-Stock-Analysis-and-Visualization-Tableau
+# Superstore-and-Stock-Analysis-and-Visualization-Tableau
 
 
 ## Tool:
