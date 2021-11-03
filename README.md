@@ -104,6 +104,35 @@ Work of Part 3 - Orders (Superstore) vs Quota (US Superstore)
 
 #### Stocks - Basic Charts
 
+- Date vs Close by Company
+
+![Date vs Close by Company](https://user-images.githubusercontent.com/70437668/140021146-c87ab690-ecd6-4198-b43e-cf2aeaf2b5d1.jpg)
+
+- Date vs Close, Volume by Company
+
+![Date vs Close, Volume by Company](https://user-images.githubusercontent.com/70437668/140021160-c5a52772-0e4c-4d35-9ea1-7f8a8f46dff1.jpg)
+
+- Date vs Close, Volume by Company, Date
+
+![Date vs Close, Volume by Company, Date](https://user-images.githubusercontent.com/70437668/140021174-5128d988-480b-4411-838c-1f0bcb674057.jpg)
+
+- Date vs Close, Volume (Dual Axis) by Company, Date
+
+![Date vs Close, Volume (Dual Axis) by Company, Date](https://user-images.githubusercontent.com/70437668/140021187-3ffa5515-f4f7-44c7-9c17-76b347cb9d12.jpg)
+
+- Date vs Close, Volume, Company (Dual Axis) (stacked bar & line)
+
+![Date vs Close, Volume, Company (Dual Axis) (stacked bar   line)](https://user-images.githubusercontent.com/70437668/140021201-bdfaa6e8-547c-4373-a2b5-81c0d1df7360.jpg)
+
+- Stock Track without Volume
+
+![Stock Track without Volume](https://user-images.githubusercontent.com/70437668/140021220-87e3dce5-5fac-460e-959b-558e266cb8e3.jpg)
+
+- Stock Tracking
+
+![Stock Tracking](https://user-images.githubusercontent.com/70437668/140021232-51ce2784-1094-47d3-b18c-2b4f97cd53d0.jpg)
+
+
 ### Part 8: 
 
 #### Hail & Taxi - US & Taxi Density maps
