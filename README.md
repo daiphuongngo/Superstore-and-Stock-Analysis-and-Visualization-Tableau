@@ -1,4 +1,4 @@
-# Superstore-Sales-Analysis-and-Visualization-Tableau
+# Superstore-Sales-and-Stock-Analysis-and-Visualization-Tableau
 
 
 ## Tool:
@@ -11,7 +11,9 @@ Dived deeply into the overall sales and profitability for the firm and determine
 
 ## Dataset:
 
-https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-connect.htm
+- Superstore: https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-connect.htm
+
+- Stocks
 
 ## Table:
 
