@@ -94,27 +94,51 @@ Work of Part 3 - Orders (Superstore) vs Quota (US Superstore)
 
 ### Part 6:
 
-Superstore Sample
+#### Superstore Sample
 
-Task - Order vs Target
+#### Task - Order vs Target
 
 ### Part 7:
 
-Sample Superstore - Basic Charts
+#### Sample Superstore - Basic Charts
 
-Stocks - Basic Charts
+#### Stocks - Basic Charts
 
 ### Part 8: 
 
-Hail & Taxi - US & Taxi Density maps
+#### Hail & Taxi - US & Taxi Density maps
 
-Mapping - Superstore - US Map
+#### Mapping - Superstore - US Map
+
+##### Sales on US Map by Country, State
+
+![Sales on US Map by Country, State](https://user-images.githubusercontent.com/70437668/140015752-ef9769e8-b568-47c4-9ac6-d381d87fe56b.jpg)
+
+##### Sum Sales on US Map by East Coast States Dual Axis
+
+![Sum Sales on US Map by East Coast States Dual Axis](https://user-images.githubusercontent.com/70437668/140015777-994da5c3-2c2c-418e-9e13-ec4ebb0f8f71.jpg)
+
+##### US Map by Sales
+
+![US Map by Sales](https://user-images.githubusercontent.com/70437668/140015806-fc82219d-2de8-4bc3-a8f2-585ef4dbaf9d.jpg)
+
+##### US Map by Sum Quantity
+
+![US Map by Sum Quantity](https://user-images.githubusercontent.com/70437668/140015815-bed2a83a-f440-4a20-9576-3c2daea2d399.jpg)
+
+##### Sum Sales of Northern vs Southern US Map by Longitude Dual Axis
+
+![Sum Sales of Northern vs Southern US Map by Longitude Dual Axis](https://user-images.githubusercontent.com/70437668/140015828-0d7f00a1-42d2-4602-8abb-679f19134679.jpg)
+
+##### Sum Profit of US Filled Map (Pie Chart)
+
+![Sum Profit of US Filled Map (Pie Chart)](https://user-images.githubusercontent.com/70437668/140015845-2bd61dc2-dfe4-4ee8-bafa-c48b5a30857f.jpg)
 
 ### Part 9:
 
-Superstore - Dashboard Basics
+#### Superstore - Dashboard Basics
 
 ### Part 10:
 
-Superstore - Basic Charts 2
+#### Superstore - Basic Charts 2
 
