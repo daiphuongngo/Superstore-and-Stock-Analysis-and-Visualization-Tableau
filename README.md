@@ -32,67 +32,109 @@ Blend
 
 ### Part 4:
 
-Book 1 - Join & Blend - Measures Names & Measure Values
-
-Book 2 - Join & Blend - Measure Names & Region
-
-Book 3 - Join & Blend - Category & Sales
-
 Book 3.2 - Join & Blend - Category & Sales
+
+![3 2 Sales vs Sales Target by Region](https://user-images.githubusercontent.com/70437668/140455531-95891c6c-2166-4c8d-940a-cd4b9c4e536d.jpg)
 
 Book 3.3 - Join & Blend - Category & Sales & Sales Target
 
+![3 3 Sum Sales by Category](https://user-images.githubusercontent.com/70437668/140455537-7d19f8d6-bb6c-427b-93b3-526b148084cf.jpg)
+
 Book 3.4 - Join & Blend - Join = Category & Sales & Sales Target
+
+![3 4 Sales vs Sales Target by Category](https://user-images.githubusercontent.com/70437668/140455544-b3841f9f-8715-468a-9ae0-e0c504fcc89d.jpg)
 
 Book 3.5 - Join & Blend - wrong Join (FYI) = Region & Sales & Sales Target
 
+![3 5 Sales vs Sales Target by Region, Category](https://user-images.githubusercontent.com/70437668/140455551-c6f607f8-c058-4910-a336-c345eed45406.jpg)
+
 Book 4.1 - Hierachies - Sales vs Category, Sub-Category, Product Name
+
+![4 1 Hierachies - Sales vs Category, Sub-Category, Product Name](https://user-images.githubusercontent.com/70437668/140455601-5e334d10-e29a-4460-9641-20c5c60ba482.jpg)
 
 Book 4.2 - Hierachies - Sales vs Order-date, Category, Sub-Category, Product Name; hue=Profit
 
+![4 2 Hierachies - Sales vs Order-date, Category, Sub-Category, Product Name; hue=Profit](https://user-images.githubusercontent.com/70437668/140455617-fc55dc62-94db-42fb-9cae-c90da63f149a.jpg)
+
 Book 5.1 - Filter - Sales vs Sub-Category
+
+![5 1 Filter - Sales vs Sub-Category](https://user-images.githubusercontent.com/70437668/140455637-1d882f3d-5feb-4e5d-8734-29f408714300.jpg)
 
 Book 5.2- Filter - Sales vs Profit; hue=Customer Name
 
+![5 2- Filter - Sales vs Profit; hue=Customer Name](https://user-images.githubusercontent.com/70437668/140455653-c455c841-1c67-4a2d-91f4-f09dbba6b282.jpg)
+
 Book 5.3- Filter - Sales vs Sub-Category
+
+![5 3- Filter - Sales vs Sub-Category](https://user-images.githubusercontent.com/70437668/140455665-8d086215-26d4-4297-8983-946dd5c67612.jpg)
 
 Book 5.4- Filter - Sales vs Sub-Category, Filters=Category
 
+![5 4- Filter - Sales vs Sub-Category, Filters=Category](https://user-images.githubusercontent.com/70437668/140455676-dc96a78d-35c6-4ef6-88f4-9e75ccced02a.jpg)
+
 Book 5.5- Filter - Sales vs Sub-Category, Filters=Product Name
+
+![5 5- Filter - Sales vs Sub-Category, Filters=Product Name, Region, Sub Category](https://user-images.githubusercontent.com/70437668/140455677-df94f4ff-63dd-45e2-b7f0-27040bf9df67.jpg)
 
 Book 5.6- Filter - Product Name; hue=Sales
 
+![5 6- Filter - Product Name; hue=Sales](https://user-images.githubusercontent.com/70437668/140455685-d21dfd6b-4926-430a-85a1-dd58bca5f3e4.jpg)
+
 Book 5.7- Filter - Order Date vs Sales; hue='Order Date'
+
+![5 7- Filter - Order Date vs Sales; hue='Order Date'](https://user-images.githubusercontent.com/70437668/140455690-727ade74-8737-423e-8ebc-ed5cae5aa3e4.jpg)
 
 Book 5.8- Filter - Product Name; Filters=Order Date, Profit; Marks=Quantity
 
+![5 8- Filter - Product Name; Filters=Order Date, Profit; Marks=Quantity](https://user-images.githubusercontent.com/70437668/140455697-e3849df1-a2c3-499c-9dda-f0cca5f202bd.jpg)
+
 Book 5.9- Filter - Product Name; Filters=Order Date, AGG(Negative Profit); Marks=Quantity
 
-Book 5.10 - Sort - Sales vs Sub-Category; Color=Profit
+![5 9- Filter - Product Name; Filters=Order Date, AGG(Negative Profit); Marks=Quantity](https://user-images.githubusercontent.com/70437668/140455708-53e8809e-b1bd-4808-89ab-691508469b7f.jpg)
 
 Book 5.10 - Sort - Sales, Profit vs Sub-Category; Color=Profit
 
+![5 10 2 - Sort - Sales, Profit vs Sub-Category; Color=Profit](https://user-images.githubusercontent.com/70437668/140455715-963501a4-8282-4751-8a54-6e20c7364ec1.jpg)
+
 Book 5.11 - Sort - Measure Names vs Cateory, Sub-Category; Text, Color=Measure Values (Profit, Quantity, Sales)
+
+![5 11 - Sort - Measure Names vs Cateory, Sub-Category; Text, Color=Measure Values (Profit, Quantity, Sales)](https://user-images.githubusercontent.com/70437668/140455722-a1818d21-2998-44de-b735-16e20f1cc8ba.jpg)
 
 Book 5.12 - Sort - sales vs Sub-Category; Color=Category
 
+![5 12 - Sort - Sales vs Sub-Category; Color=Category](https://user-images.githubusercontent.com/70437668/140455726-10530f55-0ca9-4ed3-8ca6-bc254a0083fb.jpg)
+
 Book 5.13 - Group - Product Name & Product Name (3M)
 
-Book 5.13.1 - Group - Product Name & Product Name (3M); Text=Sales
+![5 13 - Category, Sub-Category; Text=Sales](https://user-images.githubusercontent.com/70437668/140455736-e65c08e8-f1ec-4957-bab7-fea6aa1729c4.jpg)
 
 Book 5.14 - Category, Sub-Category; Text=Sales
 
-PPT - Superstore _ Order Date (Y vs M, D)
+![5 14 - Category, Sub-Category; Text=Sales](https://user-images.githubusercontent.com/70437668/140455764-829f20e8-db67-4cbe-82f8-92a113a3a237.jpg)
 
-### Part 5:
- 
-PPT - Category, Sales Target vs Order Date, Segment; Color=Sales above Target, Detail=Sales; Filter=Order Date
+5.15 Quartile - Orders (Superstore) vs Quota (US Superstore)
 
-Superstore, Sales Target, Sales Commission - sample for trial
+![5 15 Quartile - Orders (Superstore) vs Quota (US Superstore)](https://user-images.githubusercontent.com/70437668/140455781-15ceffe1-f336-40a2-903a-6d88c4cc990d.jpg)
 
-Superstore, Sales Target, Sales Commission - Trial
 
-Work of Part 3 - Orders (Superstore) vs Quota (US Superstore)
+#### Dashboard - Join and Blend
+
+![Dashboard - Join and Blend](https://user-images.githubusercontent.com/70437668/140455843-6ef8b17c-db89-4a61-ab1f-68c157afa1b6.jpg)
+
+
+#### Dashboard - Hierachies
+
+![Dashboard - Hierachies](https://user-images.githubusercontent.com/70437668/140455880-3d4b6b85-e468-415e-9385-5b6ea4e93dbc.jpg)
+
+#### Dashboard - Filter part 1, 2, 3, 4
+
+![Dashboard - Filter part 1](https://user-images.githubusercontent.com/70437668/140455942-7e3fbfed-b7bc-480c-a90c-069fd84fa735.jpg)
+
+![Dashboard - Filter part 2](https://user-images.githubusercontent.com/70437668/140455948-46a76875-2ca2-47b4-aef8-d89a40379a59.jpg)
+
+![Dashboard - Filter part 3](https://user-images.githubusercontent.com/70437668/140455952-7ef5e685-f78c-4890-95f9-6f495e7a12ef.jpg)
+
+![Dashboard - Filter part 4](https://user-images.githubusercontent.com/70437668/140455961-5b7cf84a-1d5a-4ade-8eba-b29e61ad5a6a.jpg)
 
 ### Part 6:
 
