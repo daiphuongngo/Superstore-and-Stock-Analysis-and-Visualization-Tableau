@@ -96,9 +96,23 @@ Work of Part 3 - Orders (Superstore) vs Quota (US Superstore)
 
 ### Part 6:
 
-#### Superstore Sample
+#### Superstore Sample - Sales, Profit, ...
 
-#### Task - Order vs Target
+##### Dashboard - Sales & Discount
+
+![Dashboard - Sales   Discount](https://user-images.githubusercontent.com/70437668/140451381-69939978-746f-42b8-b36a-bc9c7ddb2baa.jpg)
+
+##### Dashboard - Sales Growth over Years
+
+![Dashboard - Sales Growth over Years](https://user-images.githubusercontent.com/70437668/140451388-f3c43a32-2e27-4771-a24e-11457f2a6ff4.jpg)
+
+##### Dashboard - Sales vs Profit by Category, Year
+
+![Dashboard - Sales vs Profit by Category, Year](https://user-images.githubusercontent.com/70437668/140451407-0cbf669c-7623-4017-8838-ed115ecb58eb.jpg)
+
+##### Dashboard - Sales, Quantity, Profit
+
+![Dashboard - Sales, Quantity, Profit](https://user-images.githubusercontent.com/70437668/140451432-13f7f21d-712e-40a1-bf80-2395e8ac3cd7.jpg)
 
 ### Part 7:
 
